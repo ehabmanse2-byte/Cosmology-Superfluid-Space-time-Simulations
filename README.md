@@ -5,10 +5,10 @@
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 **Author:** Ehab Mohamed Abdel Gwad Manse  
-**ORCID:** [[https://orcid.org](https://orcid.org/0009-0009-4846-6188)](https://orcid.org)  
+**ORCID:** [[https://orcid.org](https://orcid.org)  
 **Affiliation:** Independent Researcher, Cairo, Egypt  
 **Contact:** `ehabmanse2@gmail.com`  
-
+https://orcid.org/0009-0009-4846-6188
 ---
 
 ## Overview
@@ -81,5 +81,6 @@ If you use these simulation codes or compiled observational datasets, please cit
   year         = {2026},
   month        = {nov},
   publisher    = {Zenodo}
+  ORCID.       https://orcid.org/0009-0009-4846-6188
 }
 ```
