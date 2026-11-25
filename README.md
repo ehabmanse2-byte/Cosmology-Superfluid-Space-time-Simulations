@@ -1,11 +1,11 @@
 # Simulation Suite: First-Principles Quantum Hydrodynamics, Chiral Spin-2 Gravitons, Non-Linear Cyclic Nucleosynthesis, and Multi-Scale Empirical Calibration of χ<sub>crit</sub>
 
-[![ORCID](https://shields.io)]([[https://orcid.org](https://orcid.org/0009-0009-4846-6188)](https://orcid.org/0009-0009-4846-6188))
+[![ORCID](https://shields.io)](https://orcid.org)
 [![Python 3.10+](https://shields.io)](https://python.org)
 [![License: MIT](https://shields.io)](https://opensource.org)
 
 **Author:** Ehab Mohamed Abdel Gwad Manse  
-**ORCID:** [https://orcid.org]([https://orcid.org](https://orcid.org/0009-0009-4846-6188))  
+**ORCID:** [[https://orcid.org](https://orcid.org/0009-0009-4846-6188)](https://orcid.org)  
 **Affiliation:** Independent Researcher, Cairo, Egypt  
 **Contact:** `ehabmanse2@gmail.com`  
 
