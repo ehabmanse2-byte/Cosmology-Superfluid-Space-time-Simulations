@@ -3,6 +3,7 @@
 [![ORCID](https://shields.io)](https://orcid.org)
 [![Python 3.10+](https://shields.io)](https://python.org)
 [![License: MIT](https://shields.io)](https://opensource.org)
+[![DOI](https://zenodo.org/badge/1472387469.svg)](https://doi.org/10.5281/zenodo.24544855)
 
 **Author:** Ehab Mohamed Abdel Gwad Manse  
 **ORCID:** [[https://orcid.org](https://orcid.org)  
